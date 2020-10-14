@@ -1,0 +1,13 @@
+C:\CSHARP\SOLID\SOLID.OCP\bin\Debug\netcoreapp3.1\SOLID.OCP.exe
+C:\CSHARP\SOLID\SOLID.OCP\bin\Debug\netcoreapp3.1\SOLID.OCP.deps.json
+C:\CSHARP\SOLID\SOLID.OCP\bin\Debug\netcoreapp3.1\SOLID.OCP.runtimeconfig.json
+C:\CSHARP\SOLID\SOLID.OCP\bin\Debug\netcoreapp3.1\SOLID.OCP.runtimeconfig.dev.json
+C:\CSHARP\SOLID\SOLID.OCP\bin\Debug\netcoreapp3.1\SOLID.OCP.dll
+C:\CSHARP\SOLID\SOLID.OCP\bin\Debug\netcoreapp3.1\SOLID.OCP.pdb
+C:\CSHARP\SOLID\SOLID.OCP\obj\Debug\netcoreapp3.1\SOLID.OCP.csprojAssemblyReference.cache
+C:\CSHARP\SOLID\SOLID.OCP\obj\Debug\netcoreapp3.1\SOLID.OCP.AssemblyInfoInputs.cache
+C:\CSHARP\SOLID\SOLID.OCP\obj\Debug\netcoreapp3.1\SOLID.OCP.AssemblyInfo.cs
+C:\CSHARP\SOLID\SOLID.OCP\obj\Debug\netcoreapp3.1\SOLID.OCP.csproj.CoreCompileInputs.cache
+C:\CSHARP\SOLID\SOLID.OCP\obj\Debug\netcoreapp3.1\SOLID.OCP.dll
+C:\CSHARP\SOLID\SOLID.OCP\obj\Debug\netcoreapp3.1\SOLID.OCP.pdb
+C:\CSHARP\SOLID\SOLID.OCP\obj\Debug\netcoreapp3.1\SOLID.OCP.genruntimeconfig.cache
