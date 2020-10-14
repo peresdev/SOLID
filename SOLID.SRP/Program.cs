@@ -57,7 +57,7 @@ namespace SOLID.SRP
     }
     #endregion
 
-    public class Demo
+    public class Program
     {
         static void Main(string[] args)
         {
