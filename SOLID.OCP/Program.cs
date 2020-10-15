@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using static System.Console;
 
 namespace SOLID.OCP
 {
@@ -137,22 +138,22 @@ namespace SOLID.OCP
 
             #region OCP Violation
             var pf = new ProductFilter();
-            Console.WriteLine("Green products (old):");
+            WriteLine("Green products (old):");
             foreach (var p in pf.FilterByColor(products, Color.Green))
             {
-                Console.WriteLine($" - {p.Name} is green");
+                WriteLine($" - {p.Name} is green");
             }
             #endregion
 
             #region OCP Solution
             var bf = new BetterFilter();
-            Console.WriteLine("Green products (new):");
+            WriteLine("Green products (new):");
             foreach (var p in bf.Filter(products, new ColorSpecification(Color.Green)))
             {
-                Console.WriteLine($" - {p.Name} is green");
+                WriteLine($" - {p.Name} is green");
             }
 
-            Console.WriteLine("Large blue items:");
+            WriteLine("Large blue items:");
             foreach (var p in bf.Filter(
                 products,
                 new AndSpecification<Product>(
@@ -160,7 +161,7 @@ namespace SOLID.OCP
                     new SizeSpecification(Size.Large)
                 )))
             {
-                Console.WriteLine($" - {p.Name} is big and blue");
+                WriteLine($" - {p.Name} is big and blue");
             }
             #endregion
         }
